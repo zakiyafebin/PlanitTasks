@@ -3,6 +3,7 @@ Planit tasks solutions
 Task 1
 
 Task 2
+
 Challenge 1 Solution : fibonacci.js
 ----------------------------------
 Get the nth number in the fibonacci sequence given n
